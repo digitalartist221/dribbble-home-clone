@@ -1,8 +1,5 @@
 import React from 'react'
 
-import { ModeToggle } from "@/components/ui/mode-toggle"
-
-import { Button } from "@/components/ui/button"
 
 import  Section1 from "@/components/sections/section1"
 import  Section2 from "@/components/sections/section2"
