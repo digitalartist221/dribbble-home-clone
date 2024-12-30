@@ -6,7 +6,7 @@ const Section1 = () => {
     <div className='flex flex-col w-full bg-background'>
         <div className='max-w-4xl mx-auto px-4 py-3 text-center'>
             <div className='inline-block px-4 py-2 mb-1 rounded-full bg-pink-100 text-pink-800 text-sm font-medium'>
-                Plus d'une centainre de personnes connectes
+                Plus d&apos;une centaine de personnes connectes
             </div>
             <h1 className='text-4xl md:text-4xl font-bold font-serif mb-6'>
                 Seet designer bu la nex
